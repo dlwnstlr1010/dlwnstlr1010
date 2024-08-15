@@ -1,4 +1,5 @@
 ## Hi there 👋
+## My name is Junsik Lee, and I am a third-year student in the Department of Electrical and Information Engineering at Seoul National University of Science and Technology.
 
 <!--
 **dlwnstlr1010/dlwnstlr1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
