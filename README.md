@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text=Welcome%20to%20XYLO's%20world.&fontSize=50&fontColor=%23FF69B4)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gray&height=300&section=header&text=Welcome%20to%20XYLO's%20world.&fontSize=50&fontColor=black)
 
 <!--
 **dlwnstlr1010/dlwnstlr1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
