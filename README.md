@@ -12,7 +12,7 @@
 ![QuestaSim](https://img.shields.io/badge/QuestaSim-009999?style=for-the-badge&logo=siemens&logoColor=white&logoWidth=30)
 ![IC Compiler](https://img.shields.io/badge/IC%20Compiler-8C1932?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ModelSim](https://img.shields.io/badge/ModelSim-007ACC?style=for-the-badge&logoColor=white)
+![ModelSim](https://img.shields.io/badge/ModelSim-007ACC?style=for-the-badge&logoColor=white&logo=#0071C5)
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Matlab](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
