@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text=Welcome%20to%20XYLO's%20world.&fontSize=50&fontColor=hotpink)
+![header](https://capsule-render.vercel.app/api?type=waving&color=black&height=300&section=header&text=Welcome%20to%20XYLO's%20world.&fontSize=50&fontColor=%23FF69B4)
 
 
 <!--
