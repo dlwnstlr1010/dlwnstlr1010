@@ -9,7 +9,7 @@
 
 ### Tools & IDE
 ![Vivado](https://img.shields.io/badge/Vivado-FFB81C?style=for-the-badge&logoColor=white)
-![QuestaSim](https://img.shields.io/badge/QuestaSim-009999?style=for-the-badge&logo=siemens&logoColor=white&logoWidth=50)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-009999?style=for-the-badge&logo=siemens&logoColor=white&logoWidth=30)
 ![IC Compiler](https://img.shields.io/badge/IC%20Compiler-8C1932?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-007ACC?style=for-the-badge&logoColor=white)
