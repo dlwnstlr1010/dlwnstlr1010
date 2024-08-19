@@ -1,4 +1,4 @@
-![header]("C:\Users\dlwns\firework@1x-1.0s-989px-250px.gif")
+![header](firework@1x-1.0s-989px-250px.gif)
 
 ## Tech Stack
 ### Languages
