@@ -1,4 +1,4 @@
-![header](Isometric@4x-3.3s-1349px-250px.gif)
+![header](Isometric@4x-3.3s-1596px-642px.gif)
 
 ## Tech Stack
 ### Languages
