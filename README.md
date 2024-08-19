@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Welcome%20to%20xylo's%20github.&fontSize=50&fontColor=FFD700)
+![header]("C:\Users\dlwns\firework@1x-1.0s-989px-250px.gif")
 
 ## Tech Stack
 ### Languages
