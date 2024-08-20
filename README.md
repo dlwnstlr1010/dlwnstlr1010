@@ -1,4 +1,4 @@
-![header](Spinner@4x-1.0s-755px-250px (1).gif)
+![header](Spinner@4x-1.0s-755px-250px.gif)
 
 ## Tech Stack
 ### Languages
