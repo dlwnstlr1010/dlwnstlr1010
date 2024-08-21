@@ -1,4 +1,4 @@
-![header](firework@4x-1.0s-1035px-250px)
+![header](firework@4x-1.0s-1035px-250px.gif)
 
 ## Tech Stack
 ### Languages
