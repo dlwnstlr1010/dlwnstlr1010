@@ -11,10 +11,12 @@
 
 ### Tools & IDE
 ![Vivado](https://img.shields.io/badge/Vivado-FFB81C?style=for-the-badge&logoColor=white)
+![Xilinx SDK](https://img.shields.io/badge/Xilinx%20SDK-AC162C?style=for-the-badge&logo=xilinx&logoColor=white)
+![ModelSim](https://img.shields.io/badge/ModelSim-007ACC?style=for-the-badge&logoColor=white&logo=#0071C5)
+![OpenRoad](https://img.shields.io/badge/OpenRoad-FFC300?style=for-the-badge&logoColor=white)
 ![QuestaSim](https://img.shields.io/badge/QuestaSim-009999?style=for-the-badge&logo=siemens&logoColor=white&logoWidth=30)
 ![IC Compiler](https://img.shields.io/badge/IC%20Compiler-8C1932?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ModelSim](https://img.shields.io/badge/ModelSim-007ACC?style=for-the-badge&logoColor=white&logo=#0071C5)
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Matlab](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
@@ -25,8 +27,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Office
+![Microsoft Word](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 
 
 <!--
