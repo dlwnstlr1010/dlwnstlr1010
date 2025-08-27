@@ -10,15 +10,9 @@
 
 ### Tools & IDE
 ![Vivado](https://img.shields.io/badge/Vivado-FFB81C?style=for-the-badge&logoColor=white)
-![Xilinx SDK](https://img.shields.io/badge/Xilinx%20SDK-AC162C?style=for-the-badge&logo=xilinx&logoColor=white)
 ![ModelSim](https://img.shields.io/badge/ModelSim-007ACC?style=for-the-badge&logoColor=white&logo=#0071C5)
-![OpenRoad](https://img.shields.io/badge/OpenRoad-FFC300?style=for-the-badge&logoColor=white)
-![QuestaSim](https://img.shields.io/badge/QuestaSim-009999?style=for-the-badge&logo=siemens&logoColor=white&logoWidth=30)
-![IC Compiler](https://img.shields.io/badge/IC%20Compiler-8C1932?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![Matlab](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
